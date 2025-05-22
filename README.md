@@ -90,3 +90,12 @@ Css
 ولو عاوزه اعمل array تعرضلي كل الارقام الزوجيه ازاي اشرحي الكود
  ولو عاوزه اعمل array تعرضلي كل الارقام الأكبر من ٢٥ بعمل اي اشرحي الكود
 وفي سؤالين او تلاته Javascript بس نسياهم
+
+====================================================================================================================================================================================================================
+#اضافات 
+Noha Hassan اي حد هيقدم في منحة الأربع شهور فالفايلين دول تقريبا اللي هيجي منهم امتحان E ,IQ 
+IQ: 
+https://docs.google.com/document/d/1PtPE8fdtSW2PRv4-TAH2ZmuJ5KVPeWx9LnM8jZXGFas/edit?usp=drivesdk
+
+English:
+https://docs.google.com/document/d/1HLkCVx9B2jkp4uAIcqOuiMGlNYBjfPfvyeUdFIsP76c/edit?usp=drivesdk
